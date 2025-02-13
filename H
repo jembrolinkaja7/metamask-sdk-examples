@@ -1,0 +1,2 @@
+hcd examples/<example-name>
+pnpm 
